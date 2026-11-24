@@ -1,0 +1,10 @@
+obj/
+.mrs/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.lst
+*.bak
+*.bak_original
